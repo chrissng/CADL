@@ -1,0 +1,1 @@
+docker run -it -p 8888:8888 -p 6006:6006 -v d:/CADL:/notebooks --name tf pkmital/cadl /bin/bash
